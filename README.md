@@ -81,6 +81,7 @@ def downfont(maoyanwotf):
 
 这样就下载到了这次请求页面所用的woff了,保存为demo.woff。
 
+
 #### 3.字体解析规则
 
 那么这个to.xml有什么用呢？
@@ -140,7 +141,7 @@ font.saveXML('to.xml')就是将TTFont打开的woff转换为xml的形式,在xml�
 
 如何制作这样一个模板呢？
 
-我们先来找一个woff和woff生成的xml，woff可以用字体查看器High-Logic FontCreator打开。效果如下。
+我们先来找一个woff和woff生成的xml，woff可以用字体查看器High-Logic FontCreator打开,或者使用这个网页 http://fontstore.baidu.com/static/editor/index.html  。效果如下。
 
 ![6](img/6.png)
 

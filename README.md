@@ -4,6 +4,11 @@
 
 # 注意:爬取频繁之后，会根据mac与ip地址封禁，修改为局域网其他ip后，大概5-6次修改，就会封网关
 
+
+###### 欢迎关注我的公众号哦~
+
+![weix](https://www.cnblogs.com/images/cnblogs_com/LexMoon/1391533/o_qrcode_for_gh_f3457f4f73a1_258.jpg)
+
 ### [目录]
 * [一.引入问题](#一.引入问题)
 * [二.分步实现](#二.分步实现)
